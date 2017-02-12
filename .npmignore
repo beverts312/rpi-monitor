@@ -1,0 +1,7 @@
+README.md  
+**/*.ts
+**/*.js.map
+.vscode
+tsconfig.json
+tslint.json
+*.tgz

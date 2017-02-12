@@ -1,0 +1,16 @@
+# NPM/Node
+node_modules/
+.ntvs_analysis.dat*
+npm-debug*
+
+tsd-debug.log
+coverage
+testresults
+*.tgz
+
+# Generated Javascript
+/scripts/**/*.js*
+/src/**/*.js*
+/test/**/*.js*
+/bin/**/*.js*
+/out/
